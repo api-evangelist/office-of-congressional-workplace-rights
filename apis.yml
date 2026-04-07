@@ -7,8 +7,7 @@ apis:
 
       office-of-congressional-workplace-rights:office-of-congressional-workplace-rights
     name: Office of Congressional Workplace Rights
-    tags:
-      - API
+    tags: []
     humanURL: https://www.ocwr.gov
     properties:
       - url: https://www.ocwr.gov
