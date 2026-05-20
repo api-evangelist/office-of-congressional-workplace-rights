@@ -2,6 +2,9 @@ aid: office-of-congressional-workplace-rights
 url: >2-
 
   https://raw.githubusercontent.com/api-evangelist/office-of-congressional-workplace-rights/refs/heads/main/apis.yml
+common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ocwr
 apis:
   - aid: >2-
 
