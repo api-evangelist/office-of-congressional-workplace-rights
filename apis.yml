@@ -3,6 +3,8 @@ url: >2-
 
   https://raw.githubusercontent.com/api-evangelist/office-of-congressional-workplace-rights/refs/heads/main/apis.yml
 common:
+  - type: DomainSecurity
+    url: security/office-of-congressional-workplace-rights-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/ocwr
 apis:
