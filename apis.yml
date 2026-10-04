@@ -25,9 +25,10 @@ apis:
       more.
 name: Office of Congressional Workplace Rights
 tags:
-  - Federal-Government
+  - Federal Government
 tags_raw:
   - Federal Government
+  - Federal-Government
 kind: contract
 deliveryModel:
   model: unknown
