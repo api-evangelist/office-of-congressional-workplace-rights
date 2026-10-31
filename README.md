@@ -1,4 +1,4 @@
-# Office of Congressional Workplace Rights (office-of-congressional-workplace-rights)
+# Office of Congressional Workplace Rights
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,49 +64,66 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The Office of Congressional Workplace Rights is responsible for enforcing workplace rights for employees of the United States Congress. This includes overseeing the administration of laws such as the Congressional Accountability Act, which guarantees certain rights and protections for congressional staff members. The office also provides education and training on workplace rights and responsibilities, and is responsible for investigating and resolving complaints of discrimination, harassment, or other workplace violations. Ultimately, the Office of Congressional Workplace Rights works to ensure a safe and fair working environment for all congressional employees.
+The Office of Congressional Workplace Rights is responsible for enforcing workplace rights for employees of the United States Congress. This includes overseeing the administration of laws such as the Congressional Accountability Act, which guarantees certain rights and protections for congressional staff members.
 
-**URL:** [Visit APIs.json URL](
-https://raw.githubusercontent.com/api-evangelist/office-of-congressional-workplace-rights/refs/heads/main/apis.yml)
+**Areas:** Federal Government
 
-## Scope
+## Office of Congressional Workplace Rights on APIs.io
 
-- **Type:** Contract 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Everything profiled for Office of Congressional Workplace Rights is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/office-of-congressional-workplace-rights/](https://apis.io/providers/office-of-congressional-workplace-rights/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - Federal Government
+- [Office of Congressional Workplace Rights](https://apis.io/apis/office-of-congressional-workplace-rights/office-of-congressional-workplace-rights/) — Office of Congressional Workplace Rights. The mission of the Office of Congressional Workplace Rights is to advance workplace rights, safety and health, and…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-12-03 
-- **Modified:** 2026-04-28 
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### Office of Congressional Workplace Rights
+Authentication, trust centre, and vulnerability disclosure.
 
-Office of Congressional Workplace Rights. The mission of the Office of
-Congressional Workplace Rights is to advance workplace rights, safety and
-health, and accessibility in the legislative branch. Subscribe to the
-OCWR. Sign up for e-newsletters, Fast Facts, notification of rights, news
-and announcements, regulations, and more.
+- [Office Of Congressional Workplace Rights Domain Security](https://apis.io/security/office-of-congressional-workplace-rights/office-of-congressional-workplace-rights-domain-security/)
 
-**Human URL:** [https://www.ocwr.gov](https://www.ocwr.gov)
+#### Plans and pricing (1)
 
+Published plans, tiers and prices.
 
-#### Tags:
+- [Office Of Congressional Workplace Rights Plans Pricing](https://apis.io/plans/office-of-congressional-workplace-rights/office-of-congressional-workplace-rights-plans-pricing/)
 
- - API
+#### Rate limits (1)
 
-#### Properties
+Published request limits.
 
-- [Documentation](https://www.ocwr.gov)
+- [Office Of Congressional Workplace Rights Rate Limits](https://apis.io/rate-limits/office-of-congressional-workplace-rights/office-of-congressional-workplace-rights-rate-limits/)
 
-## Maintainers
+#### FinOps (1)
 
-**FN:** Kin Lane
+What the API costs to run, by operation.
 
-**Email:** kin@apievangelist.com
+- [Office Of Congressional Workplace Rights Finops](https://apis.io/finops/office-of-congressional-workplace-rights/office-of-congressional-workplace-rights-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Blog](https://www.ocwr.gov/news/)
+
+## API Evangelist rating
+
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Office of Congressional Workplace Rights: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/office-of-congressional-workplace-rights/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
